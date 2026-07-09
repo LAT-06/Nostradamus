@@ -1,0 +1,6 @@
+.agents/
+.claude/
+.env
+AGENTS.md
+CLAUDE.md
+PLAN.md
